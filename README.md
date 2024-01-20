@@ -42,7 +42,7 @@
         <img alt="Render"
             src="https://img.shields.io/badge/Render-%23007ab7.svg?style=for-the-badge&logo=render&logoColor=white" />
          <img alt="WebGL"
-            src="https://img.shields.io/badge/WebGL-Supported-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
+            src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
     </div>
     <h2>Languages:</h2>
     <div align="center">
