@@ -79,10 +79,10 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/cursedprograms/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie"
-            alt="Top Languages">
-    </a>
+<a href="https://github.com/cursedprograms/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie&langs_count=10"
+        alt="Top Languages">
+</a>
 </div>
 <div align="center">
     <h2>Social Media:</h2>
