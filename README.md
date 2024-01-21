@@ -8,8 +8,7 @@
             src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
         <img alt="VS Code"
             src="https://img.shields.io/badge/VS_Code-%23007ab7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-            src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
-        <img alt="VS Studio"
+             <img alt="VS Studio"
             src="https://img.shields.io/badge/Visual%20Studio-%23007acc.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" />        
         <img alt="Blender"
             src="https://img.shields.io/badge/Blender-%23007ab7.svg?&style=for-the-badge&logo=blender&logoColor=white" />
