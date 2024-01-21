@@ -8,6 +8,9 @@
             src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
         <img alt="VS Code"
             src="https://img.shields.io/badge/VS_Code-%23007ab7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+            src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+        <img alt="VS Studio"
+            src="https://img.shields.io/badge/Visual%20Studio-%23007acc.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" />        
         <img alt="Blender"
             src="https://img.shields.io/badge/Blender-%23007ab7.svg?&style=for-the-badge&logo=blender&logoColor=white" />
         <img alt="GitHub"
@@ -28,7 +31,7 @@
             src="https://img.shields.io/badge/Adobe_Dreamweaver-%23007ab7.svg?&style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
         <img alt="Cubase"
             src="https://img.shields.io/badge/Cubase-%23007ab7.svg?&style=for-the-badge&logo=steinberg&logoColor=white" />     
-<img alt="Cubase"
+<img alt=".Net"
             src="https://img.shields.io/badge/.NET-%23007ab7.svg?&style=for-the-badge&logo=.net&logoColor=white" />
 <img alt="GIMP"
             src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
