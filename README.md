@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide.png"
+    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo">
  Games . Music . AI . Software
     <h2>Tools & Software:</h2>
