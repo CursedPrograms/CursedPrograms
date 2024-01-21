@@ -37,7 +37,6 @@
                  <img alt="WebGL"
             src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
     </div>
-    </div>
     <h2>Database & Web-hosting Solutions:</h2>
     <div align="center">
         <img alt="GitHub Pages"
