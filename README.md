@@ -77,16 +77,16 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/Cursed-Entertainment/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cursed-Entertainment" alt="CursedPrograms' GitHub stats">
+  <a href="https://github.com/CursedPrograms.github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CursedPrograms" alt="CursedPrograms' GitHub stats">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Cursed-Entertainment/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cursed-Entertainment&layout=compact&langs_count=10&hide=mathematica,brainfuck" alt="Top Languages">
+  <a href="https://github.com/CursedPrograms/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=compact&langs_count=10&hide=mathematica,brainfuck" alt="Top Languages">
   </a>
 </div>
 <div align="center">
