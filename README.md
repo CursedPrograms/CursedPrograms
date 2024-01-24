@@ -83,15 +83,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=CursedPrograms" alt="CursedPrograms' GitHub stats">
   </a>
 </div>
-
-[![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
-
-
 <div align="center">
   <a href="https://github.com/CursedPrograms/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie&langs_count=14" alt="Top Languages">
   </a>
 </div>
+
+[![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
+
 <div align="center">
     <h2>Social Media:</h2>
     <div align="center">
