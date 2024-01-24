@@ -84,7 +84,8 @@
   </a>
 </div>
 
-<br>
+[![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
+
 
 <div align="center">
   <a href="https://github.com/CursedPrograms/github-readme-stats">
