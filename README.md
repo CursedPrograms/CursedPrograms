@@ -38,9 +38,9 @@
             src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
                  <img alt="WebGL"
             src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
-    </div>
-                     <img alt="ARCore"
+                             <img alt="ARCore"
             src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=arcore&logoColor=white" />
+    </div>
     </div>
     <h2>Database & Web-hosting Solutions:</h2>
     <div align="center">
