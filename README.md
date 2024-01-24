@@ -41,7 +41,6 @@
                              <img alt="ARCore"
             src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=arcore&logoColor=white" />
     </div>
-    </div>
     <h2>Database & Web-hosting Solutions:</h2>
     <div align="center">
         <img alt="GitHub Pages"
