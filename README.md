@@ -38,8 +38,8 @@
             src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
                  <img alt="WebGL"
             src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
-                             <img alt="ARCore"
-            src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=arcore&logoColor=white" />
+<img alt="ARCore" src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=ARCore&logoColor=white" />
+        <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
     </div>
     <h2>Database & Web-hosting Solutions:</h2>
     <div align="center">
