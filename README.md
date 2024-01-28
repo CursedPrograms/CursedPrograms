@@ -76,9 +76,9 @@
          <img alt="Django" src="https://img.shields.io/badge/Django-%23007ab7.svg?&style=for-the-badge&logo=django&logoColor=white" />
     </div>
 </div>
-<div align="center">
+<div style="text-align: center;">
 
-# ML Based Repositories
+# ML/AI Based Repositories
 
 - [**GloriosaAI**](https://github.com/CursedPrograms/GloriosaAI)
 - [**Gender-Age-ID**](https://github.com/CursedPrograms/Gender-Age-ID)
