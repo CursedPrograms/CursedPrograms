@@ -84,7 +84,7 @@
 [**Gender-Age-ID**](https://github.com/CursedPrograms/Gender-Age-ID)  
 [**Detect-Face**](https://github.com/CursedPrograms/Detect-Face)  
 [**Image-Generator**](https://github.com/CursedPrograms/Image-Generator)  
-[**Cursed GPT**](https://github.com/CursedPrograms/Cursed-GPT)
+[**Cursed-GPT**](https://github.com/CursedPrograms/Cursed-GPT)
 
 </div>
 <br>
