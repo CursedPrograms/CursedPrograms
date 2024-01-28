@@ -22,3 +22,8 @@
 *.txt linguist-generated=false
 *.txt linguist-documentation=false
 *.txt linguist-detectable=true
+
+*.xml linguist-vendored=false
+*.xml linguist-generated=false
+*.xml linguist-documentation=false
+*.xml linguist-detectable=true
