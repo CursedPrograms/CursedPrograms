@@ -76,13 +76,16 @@
          <img alt="Django" src="https://img.shields.io/badge/Django-%23007ab7.svg?&style=for-the-badge&logo=django&logoColor=white" />
     </div>
 </div>
-    
-- [GloriosaAI Repository](https://github.com/CursedPrograms/GloriosaAI)
-- [Gender-Age-ID Repository](https://github.com/CursedPrograms/Gender-Age-ID)
-- [Detect-Face Repository](https://github.com/CursedPrograms/Detect-Face)
-- [Image-Generator Repository](https://github.com/CursedPrograms/Image-Generator)
-- [Cursed GPT Repository](https://github.com/CursedPrograms/Cursed-GPT)
+<div align="left">
+### ML Based Repositories:
 
+- [GloriosaAI](https://github.com/CursedPrograms/GloriosaAI)
+- [Gender-Age-ID](https://github.com/CursedPrograms/Gender-Age-ID)
+- [Detect-Face](https://github.com/CursedPrograms/Detect-Face)
+- [Image-Generator](https://github.com/CursedPrograms/Image-Generator)
+- [Cursed GPT](https://github.com/CursedPrograms/Cursed-GPT)
+
+</div>
 <br>
 <div align="center">
   <a href="https://github.com/CursedPrograms.github-readme-stats">
