@@ -78,7 +78,7 @@
 </div>
 <div style="text-align: center;">
 
-# ML/AI Based Repositories
+### ML/AI Based Repositories
 
 [**GloriosaAI**](https://github.com/CursedPrograms/GloriosaAI)  
 [**Gender-Age-ID**](https://github.com/CursedPrograms/Gender-Age-ID)  
