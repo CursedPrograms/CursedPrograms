@@ -81,6 +81,7 @@
 ### ML/AI Based Repositories
 
 [**GloriosaAI**](https://github.com/CursedPrograms/GloriosaAI)  
+GloriosaAI is a versatile Python codebase that includes a Generative Adversarial Network (GAN) for the training and generation of AI art.
 [**Gender-Age-ID**](https://github.com/CursedPrograms/Gender-Age-ID)  
 [**Detect-Face**](https://github.com/CursedPrograms/Detect-Face)  
 [**Image-Generator**](https://github.com/CursedPrograms/Image-Generator)  
