@@ -82,6 +82,7 @@
 
 [**GloriosaAI**](https://github.com/CursedPrograms/GloriosaAI)  
 </div>
+<br>
 <div style="text-align: left;">
     
 - Description: A versatile Python codebase that includes a Generative Adversarial Network (GAN) for the training and generation of AI art.
@@ -93,6 +94,7 @@
 [**Gender-Age-ID**](https://github.com/CursedPrograms/Gender-Age-ID)
 
 </div>
+<br>
 <div style="text-align: left;">
 
 - Description: This Python project utilizes the DeepFace library along with OpenCV to extract gender information from input images.
@@ -104,6 +106,7 @@
 [**Detect-Face**](https://github.com/CursedPrograms/Detect-Face)  
 
 </div>
+<br>
 <div style="text-align: left;">
 
 - Description: A Python script that uses the OpenCV and Pillow (PIL) libraries to detect faces in images and marks them with rectangles. The detected faces are saved in a specified output directory.
@@ -115,6 +118,7 @@
 [**Image-Generator**](https://github.com/CursedPrograms/Image-Generator)  
 
 </div>
+<br>
 <div style="text-align: left;">
 
 - Description: This project leverages the SDXL-Turbo model for versatile image processing tasks. It offers a simple command-line interface for Text-to-image and Image-to-image operations. Users can select an operation, input prompts, and the script dynamically generates and executes code snippets.
@@ -126,6 +130,7 @@
 [**Cursed-GPT**](https://github.com/CursedPrograms/Cursed-GPT)
 
 </div>
+<br>
 <div style="text-align: left;">
 
 - Description: CursedGPT leverages the Hugging Face Transformers library to interact with a pre-trained GPT-2 model. It employs TensorFlow for model management and AutoTokenizer for efficient tokenization. The script allows users to input prompts interactively, generating text responses from the GPT-2 model.
