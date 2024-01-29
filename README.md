@@ -131,7 +131,7 @@
 - Description: CursedGPT leverages the Hugging Face Transformers library to interact with a pre-trained GPT-2 model. It employs TensorFlow for model management and AutoTokenizer for efficient tokenization. The script allows users to input prompts interactively, generating text responses from the GPT-2 model.
 
 </div>
-</div>
+
 <br>
 <div align="center">
   <a href="https://github.com/CursedPrograms.github-readme-stats">
