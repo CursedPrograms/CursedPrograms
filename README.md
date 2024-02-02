@@ -66,8 +66,6 @@
             src="https://img.shields.io/badge/Python-%23007ab7.svg?&style=for-the-badge&logo=python&logoColor=white" />
         <img alt="JSON"
             src="https://img.shields.io/badge/JSon-%23007ab7.svg?&style=for-the-badge&logo=json&logoColor=white" />
-        <img alt="HLSL"
-            src="https://img.shields.io/badge/HLSL-%23007ab7.svg?&style=for-the-badge&logo=hlsl&logoColor=white" />
     </div>
     <h2>Python Libraries:</h2>
     <div align="center">
