@@ -123,7 +123,7 @@
 
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/SynthWomb05.png"
-        alt="Chapters"   style="width:200px;"/>
+    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/synthwomb07.png"
+        alt="SynthWomb" style="width:200px;"/>
 </a>
- </div>
+</div>
