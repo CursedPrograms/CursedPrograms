@@ -17,9 +17,9 @@
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="width: 20%;"/>
   </a>
 </div>
-  <br>
-  https://cursed-entertainment.github.io/cursed-directory/
-    <br>
+<div align="center">
+  <a href="https://cursed-entertainment.github.io/cursed-directory/">Cursed Directory</a>
+</div>
     <div align="center">
     <h2>Tools & Software:</h2>  
         <img alt="Unity"
