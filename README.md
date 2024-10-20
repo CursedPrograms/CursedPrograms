@@ -109,7 +109,7 @@
     <br>
 <div align="center">
   <a href="https://github.com/CursedPrograms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie&langs_count=24&theme=graywhite" alt="Top Languages">
+    <img height="186" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie&langs_count=24&theme=graywhite" alt="Top Languages">
   </a>
 </div>
 <br>
