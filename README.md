@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=CursedPrograms&color=lightGrey)
+![](https://komarev.com/ghpvc/?username=CursedPrograms&color=gray)
 
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
