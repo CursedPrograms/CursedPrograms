@@ -15,9 +15,6 @@
   </div>  
   <br>
 <div align="center">
-    
-![https://www.patreon.com/c/cursedentertainment](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
-    
   <a href="https://ko-fi.com/cursedentertainment">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="width: 20%;"/>
   </a>
