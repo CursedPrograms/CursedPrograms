@@ -103,11 +103,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CursedPrograms&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </p>
     <br>
-<div align="center">
-  <a href="https://github.com/CursedPrograms.github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CursedPrograms" alt="CursedPrograms' GitHub stats">
-  </a>
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CursedPrograms&show_icons=true&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CursedPrograms&theme=midnight-purple" alt="CursedPrograms" /><br />
+  <img height="186" src="https://github-profile-trophy.vercel.app/?username=CursedPrograms&theme=darkhub" alt="CursedPrograms" />
+</p>
     <br>
 <div align="center">
   <a href="https://github.com/CursedPrograms/github-readme-stats">
@@ -155,11 +155,7 @@
     </div>
 </div>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CursedPrograms&show_icons=true&theme=midnight-purple" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CursedPrograms&theme=midnight-purple" alt="CursedPrograms" /><br />
-  <img height="186" src="https://github-profile-trophy.vercel.app/?username=CursedPrograms&theme=darkhub" alt="CursedPrograms" />
-</p>
+
   <br>
 <div align="center">  
 © Cursed Entertainment 2024  
