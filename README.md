@@ -154,6 +154,12 @@
         </a>
     </div>
 </div>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CursedPrograms&show_icons=true&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CursedPrograms&theme=midnight-purple" alt="CursedPrograms" /><br />
+  <img height="186" src="https://github-profile-trophy.vercel.app/?username=CursedPrograms&theme==midnight-purple" alt="CursedPrograms" />
+</p>
   <br>
 <div align="center">  
 © Cursed Entertainment 2024  
