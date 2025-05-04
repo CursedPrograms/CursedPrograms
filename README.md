@@ -158,7 +158,7 @@
 
   <br>
 <div align="center">  
-© Cursed Entertainment 2024  
+© Cursed Entertainment 2025 
   </div>
     <br>
 <div align="center">
