@@ -110,9 +110,7 @@
 </p>
     <br>
 <div align="center">
-  <a href="https://github.com/CursedPrograms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie&langs_count=24&theme=graywhite" alt="Top Languages">
-  </a>
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=CursedPrograms)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
     
@@ -158,7 +156,7 @@
 
   <br>
 <div align="center">  
-© Cursed Entertainment 2025 
+© Cursed Entertainment 2026 
   </div>
     <br>
 <div align="center">
