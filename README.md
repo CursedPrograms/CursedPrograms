@@ -100,11 +100,7 @@
          <img alt="Django" src="https://img.shields.io/badge/Django-%23007ab7.svg?&style=for-the-badge&logo=django&logoColor=white" />
     </div>
 </div>
-    <br>
-<p align="center">     
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CursedPrograms&show_icons=true&theme=graywhite" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CursedPrograms&theme=graywhite" alt="Cursed Entertainment" /><br />
-    <br>
+<br>
     
 [![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
 
