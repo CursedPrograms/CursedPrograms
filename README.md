@@ -106,13 +106,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=CursedPrograms&show_icons=true&theme=graywhite" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CursedPrograms&theme=graywhite" alt="Cursed Entertainment" /><br />
     <br>
-  <img height="186" src="https://github-profile-trophy.vercel.app/?username=CursedPrograms&theme=graywhite" alt="Cursed Entertainment" />
-</p>
-    <br>
-<div align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=CursedPrograms)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br>
     
 [![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
 
