@@ -104,12 +104,14 @@
     
 [![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=compact)
+
 <br>
   <div align="center">
   <a href="https://gamejolt.com/@CursedEntertainment">
     <img src="https://s.gjcdn.net/assets/e88e2b55.png" alt="GameJolt" style="width: 30%;"/>
   </a>
-  </div>
+</div>
 <br>
 <div align="center">
     <h2>Social Media:</h2>
