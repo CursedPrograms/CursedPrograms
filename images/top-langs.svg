@@ -4,11 +4,11 @@
 <text x="25" y="35" fill="#e0408a" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Most Used Languages</text>
 <clipPath id="bar"><rect x="25" y="55" width="300" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="25.00" y="55" width="113.59" height="8" fill="#3572A5"/>
-<rect x="138.09" y="55" width="57.53" height="8" fill="#f1e05a"/>
-<rect x="195.12" y="55" width="53.06" height="8" fill="#178600"/>
-<rect x="247.68" y="55" width="48.13" height="8" fill="#f34b7d"/>
-<rect x="295.31" y="55" width="16.45" height="8" fill="#e34c26"/>
+<rect x="25.00" y="55" width="113.64" height="8" fill="#3572A5"/>
+<rect x="138.14" y="55" width="57.52" height="8" fill="#f1e05a"/>
+<rect x="195.16" y="55" width="53.04" height="8" fill="#178600"/>
+<rect x="247.70" y="55" width="48.12" height="8" fill="#f34b7d"/>
+<rect x="295.32" y="55" width="16.44" height="8" fill="#e34c26"/>
 <rect x="311.26" y="55" width="14.24" height="8" fill="#555555"/>
 </g>
 <circle cx="30" cy="87" r="5" fill="#3572A5"/>
