@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=CursedPrograms&color=gray)
 
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
-    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
+    <img src="https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo">
 </a>
 <div align="center">
@@ -102,16 +102,16 @@
 </div>
 <br>
     
-[![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
+[![Araknia Ad](https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
 
 
 
 <br>
 
 <div align="center">
-    <a href="https://github.com/cursedprograms/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=compact&langs_count=4"
-            alt="Top Languages">
+    <a href="https://github.com/CursedPrograms/CursedPrograms/blob/main/.github/workflows/top-langs.yml">
+        <img src="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/main/images/top-langs.svg"
+            alt="Most used languages">
     </a>
 </div>
 
@@ -155,7 +155,7 @@
     <br>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb07.png"
+    <img src="https://raw.githubusercontent.com/SynthWomb/synth.womb/main/logos/synthwomb07.png"
         alt="SynthWomb" style="width:200px;"/>
 </a>
 </div>

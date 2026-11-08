@@ -1,0 +1,40 @@
+# Rebuilds images/top-langs.svg (the README's "Most Used Languages" card) every day.
+# Replaces github-readme-stats on Vercel, whose public instance is paused.
+name: Top languages card
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/top_langs.py
+      - .github/workflows/top-langs.yml
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/top_langs.py CursedPrograms images/top-langs.svg 6
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- images/top-langs.svg && git ls-files --error-unmatch images/top-langs.svg >/dev/null 2>&1; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/top-langs.svg
+          git commit -m "Update the top languages card"
+          git push
