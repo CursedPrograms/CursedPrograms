@@ -4,12 +4,12 @@
 <text x="25" y="35" fill="#e0408a" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Most Used Languages</text>
 <clipPath id="bar"><rect x="25" y="55" width="300" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="25.00" y="55" width="215.76" height="8" fill="#f34b7d"/>
-<rect x="240.26" y="55" width="30.70" height="8" fill="#f1e05a"/>
-<rect x="270.46" y="55" width="25.89" height="8" fill="#3572A5"/>
-<rect x="295.85" y="55" width="17.23" height="8" fill="#178600"/>
-<rect x="312.58" y="55" width="7.57" height="8" fill="#555555"/>
-<rect x="319.65" y="55" width="5.85" height="8" fill="#b07219"/>
+<rect x="25.00" y="55" width="215.83" height="8" fill="#f34b7d"/>
+<rect x="240.33" y="55" width="30.67" height="8" fill="#f1e05a"/>
+<rect x="270.51" y="55" width="25.87" height="8" fill="#3572A5"/>
+<rect x="295.87" y="55" width="17.22" height="8" fill="#178600"/>
+<rect x="312.59" y="55" width="7.57" height="8" fill="#555555"/>
+<rect x="319.66" y="55" width="5.84" height="8" fill="#b07219"/>
 </g>
 <circle cx="30" cy="87" r="5" fill="#f34b7d"/>
 <text x="41" y="91" fill="#e6e6ee" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11">C++ <tspan fill="#9a9aae">71.8%</tspan></text>
