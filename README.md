@@ -36,7 +36,7 @@
 </td>
 <td width="33%" align="center" valign="top">
   <a href="https://cursedprograms.github.io/KillerStardust/">
-    <img src="https://raw.githubusercontent.com/CursedPrograms/KillerStardust/main/images/screenshot-play.png" alt="Killer Stardust" width="100%">
+    <img src="images/killer-stardust.gif" alt="Killer Stardust" width="100%">
   </a>
   <h3>Killer Stardust</h3>
   <p>The first Cursed Arcade cabinet.<br>An 80s neon snake with a deadly appetite.</p>
@@ -44,7 +44,7 @@
 </td>
 <td width="33%" align="center" valign="top">
   <a href="https://cursedprograms.github.io/guest_000/">
-    <img src="https://raw.githubusercontent.com/CursedPrograms/guest_000/main/images/screenshot.png" alt="guest_000" width="100%">
+    <img src="images/guest_000.gif" alt="guest_000" width="100%">
   </a>
   <h3>guest_000</h3>
   <p>A browser horror game.<br>It starts somewhere innocent.</p>
