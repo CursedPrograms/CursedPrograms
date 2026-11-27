@@ -83,19 +83,19 @@ The corporate colours, exactly as the 2023 site defines them (`cursedentertainme
 
 | Swatch | Name | Hex | What it's for |
 |---|---|---|---|
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-005184?style=flat-square) | Primary | `#005184` | Main brand blue; button hover |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-34A9E3?style=flat-square) | Primary light | `#34A9E3` | Highlights, hover outlines |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-004067?style=flat-square) | Primary dark | `#004067` | Buttons, tab hover, scrollbar hover |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-007ab7?style=flat-square) | Secondary | `#007ab7` | **The page background**, header, tabs, scrollbar, badges |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-168FCC?style=flat-square) | Accent | `#168FCC` | Accents |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-f088e9?style=flat-square) | Tertiary (pink) | `#f088e9` | The pink: special buttons (the 18+ gate), the pink fade |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-ffffff?style=flat-square) | White | `#ffffff` | All text, thin borders and lines |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-868686?style=flat-square) | Grey | `#868686` | Muted |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-c2c2c2?style=flat-square) | Light grey | `#c2c2c2` | Muted, light |
-| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-001725?style=flat-square) | Shadow | `#001725` (`rgb(0, 23, 37)`) | Shadow navy |
+| <img src="images/swatches/005184.svg" width="48" height="20" alt="#005184"> | Primary | `#005184` | Main brand blue; button hover |
+| <img src="images/swatches/34A9E3.svg" width="48" height="20" alt="#34A9E3"> | Primary light | `#34A9E3` | Highlights, hover outlines |
+| <img src="images/swatches/004067.svg" width="48" height="20" alt="#004067"> | Primary dark | `#004067` | Buttons, tab hover, scrollbar hover |
+| <img src="images/swatches/007ab7.svg" width="48" height="20" alt="#007ab7"> | Secondary | `#007ab7` | **The page background**, header, tabs, scrollbar, badges |
+| <img src="images/swatches/168FCC.svg" width="48" height="20" alt="#168FCC"> | Accent | `#168FCC` | Accents |
+| <img src="images/swatches/f088e9.svg" width="48" height="20" alt="#f088e9"> | Tertiary (pink) | `#f088e9` | The pink: special buttons (the 18+ gate), the pink fade |
+| <img src="images/swatches/ffffff.svg" width="48" height="20" alt="#ffffff"> | White | `#ffffff` | All text, thin borders and lines |
+| <img src="images/swatches/868686.svg" width="48" height="20" alt="#868686"> | Grey | `#868686` | Muted |
+| <img src="images/swatches/c2c2c2.svg" width="48" height="20" alt="#c2c2c2"> | Light grey | `#c2c2c2` | Muted, light |
+| <img src="images/swatches/001725.svg" width="48" height="20" alt="#001725"> | Shadow | `#001725` (`rgb(0, 23, 37)`) | Shadow navy |
 
 **Logo pinks** are drawn into the logo artwork and are not used for page colours. They blend from hot pink
-`#f82098` to magenta `#f020d0`, with a black outline and a white outer rim.
+`#f82098` <img src="images/swatches/f82098.svg" width="48" height="20" alt="#f82098"> to magenta `#f020d0` <img src="images/swatches/f020d0.svg" width="48" height="20" alt="#f020d0">, with a black outline and a white outer rim.
 
 **Program UIs** (apps, tools and windows; not the robots, and not the corporate site) use dark greys with Cursed pink:
 
