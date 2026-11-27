@@ -4,8 +4,12 @@
 
 **FUTURA - ALL VARIANTS (BUT NO OTHER FONTS)**
 
-Every website, app, page, README picture and UI uses Futura and nothing else. That means no Segoe UI, no
-system-ui, no Arial, no Roboto, no Google Fonts, and no monospace fonts either: code blocks are set in Futura too.
+**Where the rule applies:** corporate Cursed Entertainment material, meaning the website, homepages, ads and
+anything else that speaks for the company. There it's Futura and nothing else: no Segoe UI, no system-ui, no
+Arial, no Roboto, no Google Fonts, and no monospace either (code blocks are set in Futura too).
+
+**Games** may use other fonts when the game needs them, though it isn't recommended: Futura is still the first
+choice.
 
 ### The cuts
 
