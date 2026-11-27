@@ -1,175 +1,188 @@
-![](https://komarev.com/ghpvc/?username=CursedPrograms&color=gray)
+<div align="center">
 
-<a href="https://cursed-entertainment.itch.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/logos/logo-wide-grey.png"
-        alt="CursedEntertainment Logo">
+<a href="https://cursed-entertainment.itch.io/">
+  <img src="images/brand/hero.svg" alt="Cursed Entertainment: It's Damn Fun. Games, Augmented Reality, Music, AI, Software" width="100%">
 </a>
-<div align="center">
- Games . Augmented Reality . Music . AI . Software
-       </div>
-       <br>
-<div align="center">
-  <a href="https://cursed-entertainment.itch.io/">
-    <img src="https://static.itch.io/images/app-icon.svg" alt="itch.io" style="width: 10%;"/>
-  </a>
-  </div>  
-  <br>
-<div align="center">
-  <a href="https://ko-fi.com/cursedentertainment">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="width: 20%;"/>
-  </a>
+
+<br><br>
+
+<a href="https://cursed-entertainment.itch.io/"><img src="images/brand/b-itch.svg" alt="itch.io" height="44"></a>
+&nbsp;
+<a href="https://cursed-entertainment.github.io/cursed-directory/"><img src="images/brand/b-directory.svg" alt="Cursed Directory" height="44"></a>
+&nbsp;
+<a href="https://ko-fi.com/cursedentertainment"><img src="images/brand/b-kofi.svg" alt="Support on Ko-fi" height="44"></a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=CursedPrograms&color=007ab7&style=flat-square&label=VISITORS)
+
 </div>
-  <br>
-<div align="center">
-  <a href="https://cursed-entertainment.github.io/cursed-directory/">Cursed Directory</a>
-</div>
-  <br>
-    <div align="center">
-    <h2>Tools & Software:</h2>  
-        <img alt="Unity"
-            src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
-        <img alt="VS Code"
-            src="https://img.shields.io/badge/VS_Code-%23007ab7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-             <img alt="VS Studio"
-            src="https://img.shields.io/badge/Visual%20Studio-%23007acc.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" />        
-        <img alt="Blender"
-            src="https://img.shields.io/badge/Blender-%23007ab7.svg?&style=for-the-badge&logo=blender&logoColor=white" />
-        <img alt="GitHub"
-            src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img alt="Adobe Premiere Pro"
-            src="https://img.shields.io/badge/Adobe_Premiere_Pro-%23007ab7.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-        <img alt="Adobe After Effects"
-            src="https://img.shields.io/badge/Adobe_After_Effects-%23007ab7.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-        <img alt="Adobe Photoshop"
-            src="https://img.shields.io/badge/Adobe_Photoshop-%23007ab7.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-        <img alt="Adobe InDesign"
-            src="https://img.shields.io/badge/Adobe_InDesign-%23007ab7.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white" />
-        <img alt="Adobe Illustrator"
-            src="https://img.shields.io/badge/Adobe_Illustrator-%23007ab7.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-        <img alt="Adobe XD"
-            src="https://img.shields.io/badge/Adobe_XD-%23007ab7.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white" />
-        <img alt="Adobe Dreamweaver"
-            src="https://img.shields.io/badge/Adobe_Dreamweaver-%23007ab7.svg?&style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
-        <img alt="Cubase"
-            src="https://img.shields.io/badge/Cubase-%23007ab7.svg?&style=for-the-badge&logo=steinberg&logoColor=white" />     
-<img alt=".Net"
-            src="https://img.shields.io/badge/.NET-%23007ab7.svg?&style=for-the-badge&logo=.net&logoColor=white" />
-<img alt="GIMP"
-            src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
-                 <img alt="WebGL"
-            src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
-<img alt="ARCore" src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=arcore&logoColor=white" />       
-    </div>
-    <div align="center">
-    <h2>Database & Web-hosting Solutions:</h2>    
-        <img alt="GitHub Pages"
-            src="https://img.shields.io/badge/GitHub Pages-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img alt="Firebase"
-            src="https://img.shields.io/badge/Firebase-%23007ab7.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-        <img alt="Netlify"
-            src="https://img.shields.io/badge/Netlify-%23007ab7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
-        <img alt="Render"
-            src="https://img.shields.io/badge/Render-%23007ab7.svg?style=for-the-badge&logo=render&logoColor=white" />
-    <h2>Languages:</h2>
-    <div align="center">
-        <img alt="C#"
-            src="https://img.shields.io/badge/C%23-%23007ab7.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
-        <img alt="ShaderLab"
-            src="https://img.shields.io/badge/ShaderLab-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/JavaScript-%23007ab7.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-        <img alt="HTML5"
-            src="https://img.shields.io/badge/HTML5-%23007ab7.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-        <img alt="CSS3"
-            src="https://img.shields.io/badge/CSS3-%23007ab7.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-        <img alt="Python"
-            src="https://img.shields.io/badge/Python-%23007ab7.svg?&style=for-the-badge&logo=python&logoColor=white" />
-        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%23007ab7.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-        <img alt="Inno Setup" src="https://img.shields.io/badge/Inno%20Setup-%23007ab7.svg?&style=for-the-badge&logo=inno-setup&logoColor=white"/>
-        <img alt="JSON"
-            src="https://img.shields.io/badge/jason-%23007ab7.svg?&style=for-the-badge&logo=json&logoColor=white" />
-    </div>
-    <h2>Python Libraries:</h2>
-    <div align="center">
-        <img alt="TensorFlow"
-            src="https://img.shields.io/badge/TensorFlow-%23007ab7.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img alt="Flask"
-            src="https://img.shields.io/badge/Flask-%23007ab7.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-        <img alt="OpenCV"
-            src="https://img.shields.io/badge/opencv-%23007ab7.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
-         <img alt="Django" src="https://img.shields.io/badge/Django-%23007ab7.svg?&style=for-the-badge&logo=django&logoColor=white" />
-    </div>
-</div>
-<br>
-    
-[![Araknia Ad](https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
 
 <br>
 
-<div align="center">
-  <h2>Comets and the Commander</h2>
+<img src="images/brand/h-games.svg" alt="Games" width="100%">
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
   <a href="https://cursedprograms.github.io/comets-and-the-commander/">
-    <img src="images/comets-and-the-commander.gif" alt="Comets and the Commander: a 3D space RTS in the browser" width="720">
+    <img src="images/comets-and-the-commander.gif" alt="Comets and the Commander" width="100%">
   </a>
-  <br><br>
-  <a href="https://cursedprograms.github.io/comets-and-the-commander/">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-in%20your%20browser-%23007ab7?style=for-the-badge" alt="Play now in your browser" height="40">
+  <h3>Comets and the Commander</h3>
+  <p>A 3D space RTS in your browser.<br>Mine comets, build a fleet, conquer ten sectors.</p>
+  <a href="https://cursedprograms.github.io/comets-and-the-commander/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="32"></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://cursedprograms.github.io/KillerStardust/">
+    <img src="https://raw.githubusercontent.com/CursedPrograms/KillerStardust/main/images/screenshot-play.png" alt="Killer Stardust" width="100%">
   </a>
-  <p><sub>A 3D space RTS: mine comets, build a fleet, conquer ten sectors. Click to play, nothing to install.</sub></p>
+  <h3>Killer Stardust</h3>
+  <p>The first Cursed Arcade cabinet.<br>An 80s neon snake with a deadly appetite.</p>
+  <a href="https://cursedprograms.github.io/KillerStardust/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="32"></a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://cursed-entertainment.itch.io/araknia"><img src="https://img.itch.zone/aW1nLzExNzYwMjI0LmpwZw==/315x250%23c/1lhAwa.jpg" alt="Araknia" width="100%"></a>
+  <h4>Araknia</h4>
+  <p>A third-person gothic horror experience.</p>
+  <a href="https://cursed-entertainment.itch.io/araknia"><img src="https://img.shields.io/badge/ITCH.IO-007ab7?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="28"></a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://cursed-entertainment.itch.io/nystylla"><img src="https://img.itch.zone/aW1nLzk3NzEyODAuZ2lm/original/WVrhVF.gif" alt="Nystylla: Girls of Maluxzka" width="100%"></a>
+  <h4>Nystylla: Girls of Maluxzka</h4>
+  <p>A third-person survival sandbox.</p>
+  <a href="https://cursed-entertainment.itch.io/nystylla"><img src="https://img.shields.io/badge/ITCH.IO-007ab7?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="28"></a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://arise-mexzmiriah.netlify.app/"><img src="https://img.itch.zone/aW1nLzk3NzE3NTkuZ2lm/original/BbCsmT.gif" alt="Arise Mexzmiriah" width="100%"></a>
+  <h4>Arise Mexzmiriah</h4>
+  <p>A third-person arcade shooter.</p>
+  <a href="https://arise-mexzmiriah.netlify.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="28"></a>
+  <a href="https://cursed-entertainment.itch.io/arise-mexzmiriah"><img src="https://img.shields.io/badge/ITCH.IO-007ab7?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="28"></a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://mirror-macabre.netlify.app"><img src="https://img.itch.zone/aW1nLzQxNTIzODUuanBn/315x250%23c/PoHC%2FG.jpg" alt="Mirror Macabre" width="100%"></a>
+  <h4>Mirror Macabre</h4>
+  <p>A two-player board game.</p>
+  <a href="https://mirror-macabre.netlify.app"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="28"></a>
+  <a href="https://cursed-entertainment.itch.io/mirror-macabre"><img src="https://img.shields.io/badge/ITCH.IO-007ab7?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="28"></a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://cursed-entertainment.itch.io/retrofizia-beginning"><img src="https://img.itch.zone/aW1nLzQwMzE5MzkuanBn/315x250%23c/5dbqlU.jpg" alt="Retrofizia - Beginning" width="100%"></a>
+  <h4>Retrofizia - Beginning</h4>
+  <p>An 80s retrowave 3D platformer.</p>
+  <a href="https://cursed-entertainment.itch.io/retrofizia-beginning"><img src="https://img.shields.io/badge/ITCH.IO-007ab7?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="28"></a>
+</td>
+<td width="33%" align="center" valign="middle">
+  <a href="https://cursed-entertainment.itch.io/"><img src="images/brand/b-itch.svg" alt="All games on itch.io" height="44"></a>
+  <p>Every Cursed game,<br>on itch.io.</p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Araknia](https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
+
 </div>
-
-
 
 <br>
 
+<img src="images/brand/h-made.svg" alt="Made with" width="100%">
+
 <div align="center">
-    <a href="https://github.com/CursedPrograms/CursedPrograms/blob/main/.github/workflows/top-langs.yml">
-        <img src="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/main/images/top-langs.svg"
-            alt="Most used languages">
-    </a>
-</div>
+<br>
+
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%23007ab7.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-%23007ab7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-%23007ab7.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23007ab7.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="WebGL" src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+<img alt="Blender" src="https://img.shields.io/badge/Blender-%23007ab7.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
+<img alt="ARCore" src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=arcore&logoColor=white"/>
+
+<details>
+<summary><b>Everything else</b></summary>
+<br>
+
+**Tools & software**
+
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ab7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%23007ab7.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere_Pro-%23007ab7.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+<img alt="Adobe After Effects" src="https://img.shields.io/badge/After_Effects-%23007ab7.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%23007ab7.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+<img alt="Adobe InDesign" src="https://img.shields.io/badge/InDesign-%23007ab7.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-%23007ab7.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-%23007ab7.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+<img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Dreamweaver-%23007ab7.svg?&style=for-the-badge&logo=adobe-dreamweaver&logoColor=white"/>
+<img alt="Cubase" src="https://img.shields.io/badge/Cubase-%23007ab7.svg?&style=for-the-badge&logo=steinberg&logoColor=white"/>
+<img alt="GIMP" src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white"/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET-%23007ab7.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
+
+**Languages**
+
+<img alt="ShaderLab" src="https://img.shields.io/badge/ShaderLab-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23007ab7.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23007ab7.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JSON" src="https://img.shields.io/badge/JSON-%23007ab7.svg?&style=for-the-badge&logo=json&logoColor=white"/>
+<img alt="Inno Setup" src="https://img.shields.io/badge/Inno%20Setup-%23007ab7.svg?&style=for-the-badge&logo=inno-setup&logoColor=white"/>
+
+**Python libraries**
+
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23007ab7.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-%23007ab7.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23007ab7.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-%23007ab7.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
+**Hosting**
+
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007ab7.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23007ab7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img alt="Render" src="https://img.shields.io/badge/Render-%23007ab7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+
+</details>
 
 <br>
 
-<div align="center">
-    <h2>Social Media:</h2>
-    <div align="center">
-        <a href="https://cursed-entertainment.itch.io/">
-            <img alt="itch.io"
-                src="https://img.shields.io/badge/itch.io-%23007ab7.svg?&style=for-the-badge&logo=itchdotio&logoColor=white" />
-        </a>
-        <a href="https://twitter.com/NorowaretaGemu">
-            <img alt="Twitter"
-                src="https://img.shields.io/badge/Twitter-%23007ab7.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-        </a>
-        <a href="https://www.instagram.com/cursed.entertainment/">
-            <img alt="Instagram"
-                src="https://img.shields.io/badge/Instagram-%23007ab7.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-        <a href="https://www.facebook.com/CursedEntertainment/">
-            <img alt="Facebook"
-                src="https://img.shields.io/badge/Facebook-%23007ab7.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-        </a>
-        <a href="https://www.youtube.com/channel/UCmTHNMTp-i1TY-jxMqSjBpw">
-            <img alt="YouTube"
-                src="https://img.shields.io/badge/YouTube-%23007ab7.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-        </a>
-        <a href="https://soundcloud.com/cursedentertainment">
-            <img alt="SoundCloud"
-                src="https://img.shields.io/badge/SoundCloud-%23007ab7.svg?&style=for-the-badge&logo=soundcloud&logoColor=white" />
-        </a>
-    </div>
-</div>
-
-
-  <br>
-<div align="center">  
-© Cursed Entertainment 2026 
-  </div>
-    <br>
-<div align="center">
-<a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://raw.githubusercontent.com/SynthWomb/synth.womb/main/logos/synthwomb07.png"
-        alt="SynthWomb" style="width:200px;"/>
+<a href="https://github.com/CursedPrograms/CursedPrograms/blob/main/.github/workflows/top-langs.yml">
+  <img src="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/main/images/top-langs.svg" alt="Most used languages">
 </a>
+
+</div>
+
+<br>
+
+<img src="images/brand/h-find.svg" alt="Find Cursed" width="100%">
+
+<div align="center">
+<br>
+
+<a href="https://cursed-entertainment.itch.io/"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23007ab7.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+<a href="https://twitter.com/NorowaretaGemu"><img alt="X" src="https://img.shields.io/badge/X-%23007ab7.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/cursed.entertainment/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23007ab7.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCmTHNMTp-i1TY-jxMqSjBpw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23007ab7.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://soundcloud.com/cursedentertainment"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-%23007ab7.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
+
+<br><br>
+
+© Cursed Entertainment 2026
+
+<br><br>
+
+<a href="https://github.com/SynthWomb" target="_blank">
+  <img src="https://raw.githubusercontent.com/SynthWomb/synth.womb/main/logos/synthwomb07.png" alt="SynthWomb" width="200"/>
+</a>
+
 </div>
