@@ -63,21 +63,41 @@ system. Everything else on the page stays Futura.
 
 ## Colours
 
-**Corporate colours** are used for the websites, ads and anything with the logo:
+The corporate colours, exactly as the 2023 site defines them (`cursedentertainment/styles/colors.css`):
 
-| Name | Hex |
-|---|---|
-| Blue (primary) | `#005184` |
-| Blue (secondary) | `#007ab7` |
-| Blue (light) | `#34A9E3` |
-| Blue (accent) | `#168FCC` |
-| Blue (dark) | `#004067` |
-| Pink (tertiary) | `#f088e9` |
-| Greys | `#868686`, `#c2c2c2` |
-| Shadow navy | `#001725` |
-| White | `#ffffff` |
+```css
+:root {
+  --color-primary: #005184;
+  --color-primary-light: #34A9E3;
+  --color-primary-dark: #004067;
+  --color-secondary: #007ab7;
+  --color-tertiary: #f088e9;
+  --color-accent: #168FCC;
+  --color-white: #fff;
+  --color-grey: #868686;
+  --color-light-grey: #c2c2c2;
+  --color-shadow: rgb(0, 23, 37);
+  --color-text: var(--color-white);
+}
+```
 
-**Program UIs** (apps, tools, windows; not the robots) use dark greys with Cursed pink:
+| Swatch | Name | Hex | What it's for |
+|---|---|---|---|
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-005184?style=flat-square) | Primary | `#005184` | Main brand blue; button hover |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-34A9E3?style=flat-square) | Primary light | `#34A9E3` | Highlights, hover outlines |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-004067?style=flat-square) | Primary dark | `#004067` | Buttons, tab hover, scrollbar hover |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-007ab7?style=flat-square) | Secondary | `#007ab7` | **The page background**, header, tabs, scrollbar, badges |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-168FCC?style=flat-square) | Accent | `#168FCC` | Accents |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-f088e9?style=flat-square) | Tertiary (pink) | `#f088e9` | The pink: special buttons (the 18+ gate), the pink fade |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-ffffff?style=flat-square) | White | `#ffffff` | All text, thin borders and lines |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-868686?style=flat-square) | Grey | `#868686` | Muted |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-c2c2c2?style=flat-square) | Light grey | `#c2c2c2` | Muted, light |
+| ![](https://img.shields.io/badge/-%20%20%20%20%20%20-001725?style=flat-square) | Shadow | `#001725` (`rgb(0, 23, 37)`) | Shadow navy |
+
+**Logo pinks** are drawn into the logo artwork and are not used for page colours. They blend from hot pink
+`#f82098` to magenta `#f020d0`, with a black outline and a white outer rim.
+
+**Program UIs** (apps, tools and windows; not the robots, and not the corporate site) use dark greys with Cursed pink:
 
 | Name | Hex |
 |---|---|
@@ -91,9 +111,50 @@ system. Everything else on the page stays Futura.
 
 Program UIs use solid colours only: no gradients, no glows and no drop shadows.
 
+## The look (from the 2023 site)
+
+- **Page:** the background is secondary blue `#007ab7` and all text is white.
+- **Type:** Futura everywhere, **light weight with 3px letter-spacing** on all text. Headings (`h1`, `h2`) are
+  bold and centred, paragraphs are left-aligned, and lists have no bullets.
+- **Header:** fixed at the top, in secondary blue, with a thin white line under it. The logo animates in over 2 seconds.
+- **Buttons:** primary dark `#004067` with white text, 4px corners, 10 × 15px padding, 16px text. On hover they
+  turn primary `#005184`.
+- **Link tabs** (the online buttons): secondary blue with a thin white border and rounded `10px / 5px` corners.
+  On hover they turn primary dark, with a primary-light `#34A9E3` border.
+- **Pink pill buttons:** tertiary pink `#f088e9` with 40px round ends, in Futura light with 3px spacing. They're
+  used for the 18+ gate.
+- **18+ gate:** pictures stay blurred (10px) until you confirm, then sharpen over 0.8 seconds.
+- **Scrollbar:** 10px wide, with a secondary-blue thumb with 5px corners that turns primary dark on hover.
+- **Animations:**
+  - `scale-fade`: things grow in from nothing.
+  - `scale-fade2`: things shrink in from five times their size.
+  - `image-fade`: pictures fade in.
+  - `blink`: secondary flashing to primary.
+  - `fade`: pink fading into secondary blue.
+- **Corners:** soft. Use 4-16px on panels and cards, and round ends on pills and avatars.
+- **Banner ads:** full width, with 10px corners.
+- **Futura on the web:** the 2023 site asks Google Fonts for Futura, but Google Fonts doesn't have it. The site
+  only shows Futura on PCs that have it installed. New sites load it with the `@font-face` block above.
+
+## Voice
+
+- **Tagline:** *It's Damn Fun*
+- **Description:** "Cursed Entertainment: games, music, stories, films and tools. It's Damn Fun."
+- **Tone:** campy 80s horror, with neon arcades and horror ads. Sophie, the mascot, is played straight-creepy.
+- **Pillars:** Games · Augmented Reality · Music · AI · Software
+
 ## Logo
 
-The pink graffiti **CURSED** over a thin white **entertainment**.
+- **The mark:** a pink graffiti/horror **CURSED** (hot pink to magenta, black outline, white rim) over a thin,
+  wide-spaced white **entertainment**.
+- **Files** (in `cursedentertainment/images/logos/`):
+  - `cursed-logo.png`: stacked, 1109 × 597.
+  - `logo-wide.png`: wide, 2100 × 441, with "entertainment" in white.
+  - `logo-wide-grey.png`: wide, 2100 × 441, with "entertainment" in grey. It's the one used in README footers.
+- **Favicon:** `cursedFavicon.png`.
+- **QR codes:** in `images/qr-codes/`. The site QR is pink `#e0408a` on white, in a near-black `#111118` frame
+  with "cursedentertainment" under it.
+- **Banner ads:** in `images/banner-ads/` (`araknia-ad.png`, `cechat-ad.png`, `nystylla-ad.jpg`).
 
 ## Credit
 
