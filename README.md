@@ -104,6 +104,20 @@
     
 [![Araknia Ad](https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
 
+<br>
+
+<div align="center">
+  <h2>Comets and the Commander</h2>
+  <a href="https://cursedprograms.github.io/comets-and-the-commander/">
+    <img src="images/comets-and-the-commander.gif" alt="Comets and the Commander: a 3D space RTS in the browser" width="720">
+  </a>
+  <br><br>
+  <a href="https://cursedprograms.github.io/comets-and-the-commander/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-in%20your%20browser-%23007ab7?style=for-the-badge" alt="Play now in your browser" height="40">
+  </a>
+  <p><sub>A 3D space RTS: mine comets, build a fleet, conquer ten sectors. Click to play, nothing to install.</sub></p>
+</div>
+
 
 
 <br>
