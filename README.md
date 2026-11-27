@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
   <a href="https://cursedprograms.github.io/comets-and-the-commander/">
     <img src="images/comets-and-the-commander.gif" alt="Comets and the Commander" width="100%">
   </a>
@@ -34,13 +34,22 @@
   <p>A 3D space RTS in your browser.<br>Mine comets, build a fleet, conquer ten sectors.</p>
   <a href="https://cursedprograms.github.io/comets-and-the-commander/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="32"></a>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
   <a href="https://cursedprograms.github.io/KillerStardust/">
     <img src="https://raw.githubusercontent.com/CursedPrograms/KillerStardust/main/images/screenshot-play.png" alt="Killer Stardust" width="100%">
   </a>
   <h3>Killer Stardust</h3>
   <p>The first Cursed Arcade cabinet.<br>An 80s neon snake with a deadly appetite.</p>
   <a href="https://cursedprograms.github.io/KillerStardust/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="32"></a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://cursedprograms.github.io/guest_000/">
+    <img src="https://raw.githubusercontent.com/CursedPrograms/guest_000/main/images/screenshot.png" alt="guest_000" width="100%">
+  </a>
+  <h3>guest_000</h3>
+  <p>A browser horror game.<br>It starts somewhere innocent.</p>
+  <p><sub>Flashing images and sudden loud sounds.</sub></p>
+  <a href="https://cursedprograms.github.io/guest_000/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-007ab7?style=for-the-badge" alt="Play" height="32"></a>
 </td>
 </tr>
 </table>
