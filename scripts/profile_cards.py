@@ -234,6 +234,15 @@ def header(label):
             f'<rect class="line" x="{x0:.3f}" y="52" width="{tw:.3f}" height="3" fill="{PINK}"/>\n</svg>\n')
 
 
+def button(label, fill, stroke, text_col, w=300):
+    """A link button like images/brand/b-*.svg: rounded tab, thin border, Futura Heavy label drawn as paths."""
+    h = 52
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{label.title()}">\n'
+            f'<title>{label.title()}</title>\n'
+            f'<rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="10" ry="5" fill="{fill}" stroke="{stroke}" stroke-width="1.5"/>\n'
+            + text(label, "light", 15, w / 2, 32, "middle", text_col, 3.0) + "\n</svg>\n")
+
+
 def write(path, s):
     path = os.path.join(ROOT, path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -247,6 +256,10 @@ if __name__ == "__main__":
         for name, label in {"h-stats": "STATS", "h-robots": "ROBOTICS", "h-atelier": "CREATIVE TOOLS",
                             "h-ai": "AI", "h-games": "GAMES", "h-made": "MADE WITH", "h-find": "FIND CURSED"}.items():
             write(f"images/brand/{name}.svg", header(label))
+        sys.exit()
+    if "--buttons" in sys.argv:
+        write("images/brand/b-repos.svg", button("EXPLORE REPOSITORIES", PINK, WHITE, "#14141c", 320))
+        write("images/brand/b-follow.svg", button("FOLLOW CURSEDPROGRAMS", "#007ab7", WHITE, WHITE, 340))
         sys.exit()
     user = sys.argv[1] if len(sys.argv) > 1 else "CursedPrograms"
     rs = repos(user)

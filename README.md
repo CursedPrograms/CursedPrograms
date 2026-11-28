@@ -12,6 +12,12 @@
 &nbsp;
 <a href="https://ko-fi.com/cursedentertainment"><img src="images/brand/b-kofi.svg" alt="Support on Ko-fi" height="44"></a>
 
+<br>
+
+<a href="https://github.com/CursedPrograms?tab=repositories"><img src="images/brand/b-repos.svg" alt="Explore repositories" height="44"></a>
+&nbsp;
+<a href="https://github.com/CursedPrograms"><img src="images/brand/b-follow.svg" alt="Follow CursedPrograms" height="44"></a>
+
 <br><br>
 
 **Cursed Entertainment** is an independent studio making games, robots, creative software and AI tools.<br>
@@ -30,6 +36,14 @@ Everything here is built in-house, from the C++ engines and desktop apps to the 
   <img src="images/top-langs.svg" alt="Most used languages" width="49%">
   <br>
   <img src="images/streak.svg" alt="Contribution streak" width="99%">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/output/snake-light.svg">
+    <img alt="A snake eating the year's contributions" src="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/output/snake-dark.svg" width="99%">
+  </picture>
 </p>
 
 <br>
