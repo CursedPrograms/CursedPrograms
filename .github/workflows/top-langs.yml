@@ -1,6 +1,6 @@
-# Rebuilds images/top-langs.svg (the README's "Most Used Languages" card) every day.
-# Replaces github-readme-stats on Vercel, whose public instance is paused.
-name: Top languages card
+# Rebuilds the README's cards (images/stats.svg, streak.svg, top-langs.svg) every day.
+# Replaces github-readme-stats and streak-stats on Vercel, whose public instances are paused, and draws Futura.
+name: Profile cards
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
   push:
     branches: [main]
     paths:
-      - scripts/top_langs.py
+      - scripts/profile_cards.py
       - .github/workflows/top-langs.yml
 
 permissions:
@@ -23,18 +23,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Build the card
+      - name: Build the cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/top_langs.py CursedPrograms images/top-langs.svg 6
+        run: python scripts/profile_cards.py CursedPrograms
       - name: Commit if it changed
         run: |
-          if git diff --quiet -- images/top-langs.svg && git ls-files --error-unmatch images/top-langs.svg >/dev/null 2>&1; then
+          if git diff --quiet -- images/*.svg && [ -z "$(git ls-files --others -- images/*.svg)" ]; then
             echo "No change."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add images/top-langs.svg
-          git commit -m "Update the top languages card"
+          git add images/*.svg
+          git commit -m "Update the profile cards"
           git push

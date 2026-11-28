@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<style>@keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.line { transform-origin: 600.0px 0; animation: sweep .9s ease .2s both; }</style>
+<rect width="1200" height="64" rx="10" fill="#005184"/>
+<path d="M595.42 35.47 593.5 29.93Q593.42 29.68 593.29 29.09Q593.16 28.49 593.02 27.62Q592.87 28.45 592.73 29.12Q592.59 29.78 592.52 30L590.67 35.47ZM584.5 42 591.03 24.84H595.22L601.85 42H597.67L596.28 38.36H589.63L588.44 42ZM609.72 42V24.84H613.39V42Z" fill="#ffffff"/>
+<rect class="line" x="584.619" y="52" width="30.762" height="3" fill="#f088e9"/>
+</svg>

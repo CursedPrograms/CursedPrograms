@@ -14,9 +14,23 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=CursedPrograms&color=007ab7&style=flat-square&label=VISITORS)
+**Cursed Entertainment** is an independent studio making games, robots, creative software and AI tools.<br>
+Everything here is built in-house, from the C++ engines and desktop apps to the robot firmware.
 
 </div>
+
+<br>
+
+<img src="images/brand/h-stats.svg" alt="Stats" width="100%">
+
+<br>
+
+<p align="center">
+  <img src="images/stats.svg" alt="GitHub stats" width="49%">
+  <img src="images/top-langs.svg" alt="Most used languages" width="49%">
+  <br>
+  <img src="images/streak.svg" alt="Contribution streak" width="99%">
+</p>
 
 <br>
 
@@ -105,6 +119,127 @@
 
 <br>
 
+<img src="images/brand/h-robots.svg" alt="Robotics" width="100%">
+
+<br>
+
+<p align="center"><b>DREAM Robotics</b>: a fleet of robots with names, voices and personalities, driven by local AI.</p>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/DREAM"><img src="images/featured/dream.jpg" alt="DREAM" width="100%"></a>
+  <h4>DREAM</h4>
+  <p>An offline AI companion with an inner life: voice, memory, moods and a face.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/KIDA-Robot-v01"><img src="images/featured/kida-robot-v01.jpg" alt="KIDA-01" width="100%"></a>
+  <h4>KIDA-01</h4>
+  <p>A Raspberry Pi 5 tank with a Hailo AI accelerator, night vision and a local LLM.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/WHIP-Robot-v00"><img src="images/featured/whip-robot-v00.jpg" alt="WHIP" width="100%"></a>
+  <h4>WHIP</h4>
+  <p>An 18-servo ESP32 hexapod with gaits, tilt safety and a gamepad.</p>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/NORA-Robot-v00"><img src="images/featured/nora-robot-v00.jpg" alt="NORA" width="100%"></a>
+  <h4>NORA</h4>
+  <p>A mecanum-wheeled ESP32 robot and the fleet's WiFi hub.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/TINA"><img src="images/featured/tina.jpg" alt="TINA" width="100%"></a>
+  <h4>TINA</h4>
+  <p>The fleet's engineer: a local LLM agent that reads, writes and checks the robots' code.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/RIFT"><img src="images/featured/rift.jpg" alt="RIFT" width="100%"></a>
+  <h4>RIFT</h4>
+  <p>The fleet hub: robot registry, discovery and a live dashboard.</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="images/brand/h-atelier.svg" alt="Creative tools" width="100%">
+
+<br>
+
+<p align="center"><b>Atelier</b>: a creative and studio suite of desktop apps, written in C++.</p>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Chimera"><img src="images/featured/chimera.jpg" alt="Chimera" width="100%"></a>
+  <h4>Chimera</h4>
+  <p>A layer-based image editor: layers, masks, blend modes and filters.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Diorama"><img src="images/featured/diorama.jpg" alt="Diorama" width="100%"></a>
+  <h4>Diorama</h4>
+  <p>An augmented reality engine: scenes on printed markers, played in a phone browser.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Firmament"><img src="images/featured/firmament.jpg" alt="Firmament" width="100%"></a>
+  <h4>Firmament</h4>
+  <p>360° skyboxes from a prompt, on your own GPU, up to 8K.</p>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Hymnal"><img src="images/featured/hymnal.jpg" alt="Hymnal" width="100%"></a>
+  <h4>Hymnal</h4>
+  <p>Whole songs with vocals, made on your own PC.</p>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Atelier"><img src="images/featured/atelier.jpg" alt="Atelier" width="100%"></a>
+  <h4>Atelier</h4>
+  <p>The launcher: install, update and start every app from one window.</p>
+</td>
+<td width="33%" align="center" valign="middle">
+  <a href="https://cursedprograms.github.io/Atelier/"><img src="https://img.shields.io/badge/ALL%20ATELIER%20APPS-007ab7?style=for-the-badge" alt="All Atelier apps" height="32"></a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="images/brand/h-ai.svg" alt="AI" width="100%">
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Mosaic-Mask"><img src="images/featured/mosaic-mask.gif" alt="Mosaic Mask" width="100%"></a>
+  <h4>Mosaic Mask</h4>
+  <p>A scramble suit for video calls: your face as a shifting mosaic of AI-generated strangers.</p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Changeling-Studio"><img src="images/featured/changeling-studio.jpg" alt="Changeling Studio" width="100%"></a>
+  <h4>Changeling Studio</h4>
+  <p>Face swap, age, gender, makeup, hair and voice, in photos and live.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Changeling-Imago"><img src="images/featured/changeling-imago.jpg" alt="Changeling Imago" width="100%"></a>
+  <h4>Changeling Imago</h4>
+  <p>One face onto any photo or video, with clean-up.</p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/CursedPrograms/Changeling-Chronos"><img src="images/featured/changeling-chronos.jpg" alt="Changeling Chronos" width="100%"></a>
+  <h4>Changeling Chronos</h4>
+  <p>A face younger or older, or a five-age timeline.</p>
+</td>
+</tr>
+</table>
+
+<br>
+
 <img src="images/brand/h-made.svg" alt="Made with" width="100%">
 
 <div align="center">
@@ -163,12 +298,6 @@
 
 </details>
 
-<br>
-
-<a href="https://github.com/CursedPrograms/CursedPrograms/blob/main/.github/workflows/top-langs.yml">
-  <img src="https://raw.githubusercontent.com/CursedPrograms/CursedPrograms/main/images/top-langs.svg" alt="Most used languages">
-</a>
-
 </div>
 
 <br>
@@ -187,6 +316,10 @@
 <br><br>
 
 © Cursed Entertainment 2026
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=CursedPrograms&color=007ab7&style=flat-square&label=VISITORS)
 
 <br><br>
 
