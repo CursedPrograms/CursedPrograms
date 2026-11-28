@@ -222,6 +222,55 @@ def streak_card(total, first, cur, cur_range, best, best_range):
     return svg(w, h, "Contribution streak", body)
 
 
+def journey_card(cal, st, joined):
+    """Contributions month by month since joining: an area chart with the totals beside it."""
+    w, h = 1200, 300
+    months = {}
+    for d, n in cal.items():
+        if d >= joined[:10]:
+            months[d[:7]] = months.get(d[:7], 0) + n
+    keys = sorted(months)
+    body = title("GITHUB JOURNEY", w)
+    if not keys:
+        return svg(w, h, "GitHub journey", body)
+    vals = [months[k] for k in keys]
+    top = max(vals) or 1
+    # the facts, down the left
+    j = dt.date.fromisoformat(joined[:10])
+    facts = [(j.strftime("%b %Y").upper(), "JOINED"), (fmt(sum(vals)), "CONTRIBUTIONS"),
+             (fmt(st.get("Public repos", 0)), "PUBLIC REPOS"), (fmt(max(vals)), "BEST MONTH")]
+    for i, (big, label) in enumerate(facts):
+        y = 100 + i * 50
+        body.append(f'<g class="a {"abcd"[i]}">' + text(big, "heavy", 22, 30, y, fill=PINK if i == 1 else WHITE)
+                    + text(label, "light", 10, 30, y + 16, fill=MUTED, spacing=2) + "</g>")
+    # the chart, on the right
+    x0, x1, y0, y1 = 250, w - 30, 250, 75
+    step = (x1 - x0) / max(1, len(vals) - 1)
+    pts = [(x0 + i * step, y0 - (y0 - y1) * v / top) for i, v in enumerate(vals)]
+    for frac in (0.25, 0.5, 0.75, 1.0):
+        gy = y0 - (y0 - y1) * frac
+        body.append(f'<rect x="{x0}" y="{gy:.1f}" width="{x1 - x0}" height="1" fill="{DARK}"/>')
+    area = f"M{x0},{y0} " + " ".join(f"L{x:.1f},{y:.1f}" for x, y in pts) + f" L{x1},{y0} Z"
+    line = "M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+    body.append(f'<path d="{area}" fill="{PINK}" fill-opacity="0.22"/>')
+    body.append(f'<path class="draw" d="{line}" fill="none" stroke="{PINK}" stroke-width="2.5" stroke-linejoin="round"/>')
+    body.append(f'<rect x="{x0}" y="{y0}" width="{x1 - x0}" height="1.5" fill="{LINE}"/>')
+    for i, k in enumerate(keys):                       # the year under each January (and the first month)
+        if i == 0 or k.endswith("-01"):
+            x = x0 + i * step
+            body.append(f'<rect x="{x:.1f}" y="{y0}" width="1" height="6" fill="{LINE}"/>')
+            body.append(text(k[:4], "light", 11, x, y0 + 22, "middle", MUTED, 1.5))
+    peak = max(range(len(vals)), key=lambda i: vals[i])
+    px, py = pts[peak]
+    body.append(f'<circle cx="{px:.1f}" cy="{py:.1f}" r="4" fill="{WHITE}"/>')
+    body.append(text(dt.date.fromisoformat(keys[peak] + "-01").strftime("%b %Y").upper(), "light", 10,
+                     min(max(px, x0 + 40), x1 - 40), py - 10, "middle", WHITE, 1.5))
+    out = svg(w, h, "GitHub journey: contributions per month", body)
+    # the line draws itself in, left to right
+    return out.replace("</style>", " .draw { stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: draw 2.2s ease .2s forwards; }"
+                       " @keyframes draw { to { stroke-dashoffset: 0; } }</style>", 1)
+
+
 def header(label):
     """A section header like images/brand/h-games.svg: white Futura Heavy on primary blue, pink line sweeping in."""
     tw = width(label, "heavy", 24, 6)
@@ -263,6 +312,10 @@ if __name__ == "__main__":
         sys.exit()
     user = sys.argv[1] if len(sys.argv) > 1 else "CursedPrograms"
     rs = repos(user)
-    write("images/stats.svg", stats_card(stats(user, rs)))
-    write("images/streak.svg", streak_card(*streaks(days(user))))
+    st = stats(user, rs)
+    cal = days(user)
+    joined = gql("query($u:String!){ user(login:$u){ createdAt } }", u=user)["user"]["createdAt"]
+    write("images/stats.svg", stats_card(st))
+    write("images/streak.svg", streak_card(*streaks(cal)))
+    write("images/journey.svg", journey_card(cal, st, joined))
     write("images/top-langs.svg", langs_card(language_totals(user, rs)))

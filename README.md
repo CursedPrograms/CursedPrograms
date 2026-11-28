@@ -36,6 +36,8 @@ Everything here is built in-house, from the C++ engines and desktop apps to the 
   <img src="images/top-langs.svg" alt="Most used languages" width="49%">
   <br>
   <img src="images/streak.svg" alt="Contribution streak" width="99%">
+  <br>
+  <img src="images/journey.svg" alt="GitHub journey: contributions per month since joining" width="99%">
 </p>
 
 <p align="center">
